@@ -20,5 +20,18 @@
 	<string>1.0</string>
 	<key>NSPrincipalClass</key>
 	<string>YTLite</string>
+	<key>UISupportedDevices</key>
+	<array>
+		<string>iPhone10,1</string>
+		<string>iPhone10,4</string>
+		<string>iPhone12,8</string>
+		<string>iPhone14,2<string>
+		<string>iPhone14,6</string>
+		<string>iPhone8,1</string>
+		<string>iPhone8,4</string>
+		<string>iPhone9,1</string>
+		<string>iPhone9,3</string>
+		<string>iPod9,1</string>
+	</array>
 </dict>
 </plist>
